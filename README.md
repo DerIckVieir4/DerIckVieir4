@@ -1,8 +1,8 @@
 ### Olá bem vindo ao meu perfil 👋
 
 
-- 🔭 Estudante
-- 🌱 Informática para Internet
+- Estudante 
+- Atuaçmente cursando: Informática para Internet
 
 <div align="center">
   <a href="https://github.com/DerIckVieir4">
